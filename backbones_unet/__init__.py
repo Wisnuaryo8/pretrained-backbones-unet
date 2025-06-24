@@ -71,5 +71,5 @@ __available_models__ = [
     'tf_mixnet_m', 'tf_mixnet_s', 'tf_mobilenetv3_large_075', 'tf_mobilenetv3_large_100', 'tf_mobilenetv3_large_minimal_100', 'tf_mobilenetv3_small_075', 
     'tf_mobilenetv3_small_100', 'tf_mobilenetv3_small_minimal_100', 'tinynet_a', 'tinynet_b', 'tinynet_c', 'tinynet_d', 'tinynet_e', 'tv_densenet121', 
     'tv_resnet34', 'tv_resnet50', 'tv_resnet101', 'tv_resnet152', 'tv_resnext50_32x4d', 'vgg11', 'vgg11_bn', 'vgg13', 'vgg13_bn', 'vgg16', 'vgg16_bn', 
-    'vgg19', 'vgg19_bn', 'wide_resnet50_2', 'wide_resnet101_2', 'xception41', 'xception41p', 'xception65', 'xception65p', 'xception71' 'repvit_m1_5.dist_450e_in1k'
+    'vgg19', 'vgg19_bn', 'wide_resnet50_2', 'wide_resnet101_2', 'xception41', 'xception41p', 'xception65', 'xception65p', 'xception71', 'repvit_m1_5.dist_450e_in1k', 'swinv2_tiny_window8_256.ms_in1k'
 ]
