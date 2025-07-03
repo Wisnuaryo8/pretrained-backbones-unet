@@ -6,11 +6,13 @@ build-backend = "setuptools.build_meta"
 name = "pretrained-backbones-unet"
 version = "0.0.1"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name = "Wisnu Aryo", email = "wisnu@example.com" },
 ]
-description = "A small example package"
+description = "Pretrained backbones for Unet"
 readme = "README.md"
 requires-python = ">=3.7"
+license = { text = "MIT" }
+dynamic = ["dependencies"]  # <== Penting!
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -18,8 +20,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/Wisnuaryo8/pretrained-backbones-unet"
+Bug Tracker = "https://github.com/Wisnuaryo8/pretrained-backbones-unet/issues"
 
 [tool.setuptools]
 include-package-data = true
