@@ -12,6 +12,7 @@ description = "Pretrained backbones for Unet"
 readme = "README.md"
 requires-python = ">=3.7"
 license = { text = "MIT" }
+dynamic = ["dependencies"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
